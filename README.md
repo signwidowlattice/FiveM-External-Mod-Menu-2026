@@ -74,7 +74,7 @@ Free external cheat menu for FiveM. Working 2026
 
 
 ### **Q: Does it work with all FiveM servers?**
-✅ **Most servers** - Works on both legit and rage PvP servers
+✅ **Most servers** - Works on both legit and rage PvP servers.
 
 ### **Q: Can I use it with OBS/Streaming software?**
 ✅ **Fully streamproof** - No visual artifacts 
